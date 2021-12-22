@@ -3,7 +3,7 @@
 
 :closed_book: I'm an Informatic Engineer. 
 
-:calendar: I have more than 4 years developing web apps.
+:calendar: I have more than 3 years developing web apps.
 
 🌱 I’m currently learning Vue.js 3 and Dockers
 
